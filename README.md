@@ -65,6 +65,5 @@ Feel free to customize the app by modifying the code in `streamlit_app.py` and a
 
 ## Feedback
 
-If you encounter any problems or have suggestions for improvement, please [open an issue](https://github.com/your-username/your-streamlit-app/issues).
+If you encounter any problems or have suggestions for improvement, please [open an issue](https://github.com/aashishpnt/finetuningllm/issues).
 
-Happy Streamlit-ing!
